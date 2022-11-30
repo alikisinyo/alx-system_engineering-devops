@@ -9,4 +9,4 @@ mv moves files from one directory to another
 rm removes a file 'i.e rm /tmp/my_first_directory/betty'
 rmdir removes an empty directory
 cd .. changes to the previous directory
-
+ls -la . .. /boot list all files plus boot in long format
