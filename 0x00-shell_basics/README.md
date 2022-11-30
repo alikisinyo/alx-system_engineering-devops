@@ -6,3 +6,4 @@ ls -la displays current directory contents starting with . in a long format
 ls -na displays current directory conntents in a long list with users and group IDs displayed numerically and starting with hidden . files
 cd /tmp/ changes directory to tmp
 mkdir makes the directory intended i.e 'cd /tmp/ mkdir my_first_directory'
+
