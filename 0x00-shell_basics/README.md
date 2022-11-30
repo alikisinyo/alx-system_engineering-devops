@@ -16,4 +16,5 @@ cp -u copies files that were not present to a specified destination
 mv [[:upper:]] destination moves files with upper case to a specified location
 rm *~ removes any file ending with ~
 mkdir creates directories.
+ls -map list all files and directories separted by commas and backslashes
 
