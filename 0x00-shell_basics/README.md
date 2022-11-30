@@ -12,3 +12,5 @@ cd .. changes to the previous directory
 ls -la . .. /boot list all files plus boot in long format
 file shows the type of file
 ln -s creates a symbolic link
+cp -u copies files that were not present to a specified destination
+
