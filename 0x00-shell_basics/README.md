@@ -11,3 +11,4 @@ rmdir removes an empty directory
 cd .. changes to the previous directory
 ls -la . .. /boot list all files plus boot in long format
 file shows the type of file
+ln -s creates a symbolic link
