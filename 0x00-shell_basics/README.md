@@ -14,4 +14,5 @@ file shows the type of file
 ln -s creates a symbolic link
 cp -u copies files that were not present to a specified destination
 mv [[:upper:]] destination moves files with upper case to a specified location
+rm *~ removes any file ending with ~
 
