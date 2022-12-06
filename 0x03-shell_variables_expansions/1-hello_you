@@ -1,0 +1,2 @@
+#!/bin/bash
+alias 1-hello_you="echo hello $user"
