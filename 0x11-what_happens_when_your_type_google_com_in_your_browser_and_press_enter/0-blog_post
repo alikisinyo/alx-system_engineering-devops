@@ -1,0 +1,29 @@
+Title: The Web Request Journey: URL to Web Page
+
+Have you ever wondered what happens when you enter "https://www.google.com" in your browser and hit Enter? Behind the scenes, a series of complex steps occur to deliver the desired web page. Let's explore the journey of a web request, covering DNS requests, TCP/IP, firewalls, HTTPS/SSL, load balancers, web servers, application servers, and databases.
+
+1. DNS Request:
+Your browser sends a DNS request to find the IP address associated with "www.google.com." A DNS resolver searches for the IP address, either retrieving it from cache or querying other DNS servers.
+
+2. TCP/IP:
+Using the TCP/IP protocol, your browser establishes a reliable connection with the server, ensuring packets are transmitted in the correct order.
+
+3. Firewall:
+Firewalls act as security barriers, monitoring network traffic for unauthorized access and protecting the server from potential threats.
+
+4. HTTPS/SSL:
+HTTPS encrypts data exchanged between the client and server, maintaining confidentiality and integrity. SSL/TLS protocols establish a secure connection by verifying the server's identity with an SSL certificate.
+
+5. Load Balancer:
+Load balancers distribute incoming requests across multiple servers, optimizing resource usage and preventing overload for large websites.
+
+6. Web Server:
+The web server processes the client's request, retrieving necessary files (HTML, CSS, JavaScript), and constructing the web page.
+
+7. Application Server:
+In complex web applications, the application server handles dynamic content generation, interacts with databases, and executes server-side scripts.
+
+8. Database:
+Databases store and retrieve data for web applications. They house indexed web pages, user information, and other data. The application server interacts with the database to retrieve necessary information.
+
+Understanding this process provides insights into the intricate workings of the internet and the technology powering our online experiences.
